@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This module contains a type-annotated function for converting a float to string.
+This module contains a function for converting a float to string.
 """
 
 
