@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+"""
+This module contains a type-annotated function for converting a float to string.
+"""
+
+
+def to_str(n: float) -> str:
+    """
+    Convert a float number to its string representation.
+
+    Args:
+        n (float): The float number to convert to string.
+
+    Returns:
+        str: The string representation of the float number.
+    """
+    return str(n)
